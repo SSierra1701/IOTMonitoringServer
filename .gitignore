@@ -1,0 +1,5 @@
+# Ignorar el directorio .venv
+.venv/
+
+# Ignorar todos los archivos .patch
+*.patch
